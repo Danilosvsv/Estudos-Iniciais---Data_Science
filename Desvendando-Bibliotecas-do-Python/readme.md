@@ -4,3 +4,11 @@ Nessa pasta, realizo experimentos com as principais funções de bibliotecas do 
 
 1) Numpy
 2) Pandas
+
+- A Adicionar:
+- 
+3) Matplotlib
+4) Seaborn
+5) Plotly
+6) Cufflinks
+7) Scipy
