@@ -7,7 +7,7 @@ Nessa pasta, realizo experimentos com as principais funções de bibliotecas do 
 3) Matplotlib
 
 - A Adicionar:
-- 
+
 4) Seaborn
 5) Plotly
 6) Cufflinks
