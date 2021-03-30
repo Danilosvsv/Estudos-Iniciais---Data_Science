@@ -3,9 +3,13 @@
 Nessa pasta, realizo experimentos com as principais funções de bibliotecas do python. Também crio e resolvo exercícios para verificar a fixação do meu aprendizado. As bibliotecas estudadas encontram-se listadas abaixo:
 
 [Numpy](#introduction)
+
 [Pandas](#introduction2)
+
 [Matplotlib](#introduction3)
+
 [Seaborn](#introduction4)
+
 [Referências](#introduction5)
 
 ## Numpy <a name="introduction"></a>
